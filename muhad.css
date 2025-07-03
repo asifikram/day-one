@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.title-text{
+    font-size: 40px;
+    background-color: violet;
+    padding: 10px;
+}
+
+.about{
+    background-color: orange;
+    padding: 15px;
+}
+
+body{
+    color: white;
+}
+
+
+#mother{
+    display: flex;
+    background-color: blue;
+    margin: 15px;
+}
+
+#left-div{
+    width: 50vw;
+    background-color:skyblue;
+    padding: 15px;
+}
+
+#right-dev{
+    width: 50vw;
+    background-color: orange;
+    padding: 15px;
+}
+
+.coommon-padding{
+    padding: 5px;
+}
+
+.left-side{
+    background-color: aqua;
+    margin: 4px;
+}
+
+.right-side{
+    margin: 4px;
+    background-color: red;
+}
+
+.footer{
+    background-color: blue;
+    padding: 10px;
+    text-align: center;
+}
