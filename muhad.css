@@ -43,7 +43,8 @@ body{
 
 .left-side{
     background-color: aqua;
-    margin: 4px;
+    margin: 4px;#
+    padding: 4px;
 }
 
 .right-side{
